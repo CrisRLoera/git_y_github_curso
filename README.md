@@ -1,7 +1,7 @@
 # git_y_github_curso
 
 
-Este es un test
+Este es una rama de desarrollo
 
 
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit,
